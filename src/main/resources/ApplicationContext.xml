@@ -12,4 +12,7 @@
         <constructor-arg value="Misha"/>
     </bean>
 
+    <bean id="musicBean"
+          class="org.example.ClassicalMusic">
+    </bean>
 </beans>
